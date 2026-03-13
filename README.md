@@ -1,7 +1,7 @@
 # Ex03 To-Do List using JavaScript
 ## Date :10-02-2026
-## Name :Eshwer M
-## Reg No :212224040086
+## Name :THILLAI AJAY.L
+## Reg No :212224040354
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
